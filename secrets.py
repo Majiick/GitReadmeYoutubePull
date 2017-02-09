@@ -1,0 +1,2 @@
+username = 'majiick'
+password = '<password>'
